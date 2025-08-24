@@ -30,10 +30,10 @@ cli-calculator/
 │
 ├── main.go     # The main Go application code
 └── README.md   # Project documentation
----
+
 
 ## **Installation and Setup**
-
+---
 1. **Clone the repository:**
 
 ```bash
