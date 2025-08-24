@@ -31,6 +31,7 @@ cli-calculator/
 ├── main.go     # The main Go application code
 └── README.md   # Project documentation
 
+---
 
 ## **Installation and Setup**
 ---
@@ -40,10 +41,14 @@ cli-calculator/
 git clone https://github.com/<your-username>/cli-calculator.git
 cd cli-calculator
 
+---
+
 2.	**Run the program:**
 go run main.go
 
+---
 ## **Example session**
+---
 ########################
 
 Welcome to using Habeeb's CLI Calculator
@@ -60,7 +65,8 @@ Provide the list of numbers to add:
 <Press any letter or non-number to stop input>
 You have provided this list: [5 10 20].
 The sum of the numbers in the provided list is: 35
-
+---
 ## ** To exit**
 State the Operation you want to perform:
 exit
+---
