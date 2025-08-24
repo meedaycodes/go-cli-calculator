@@ -38,7 +38,7 @@ cli-calculator/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/<your-username>/cli-calculator.git
+git clone https://github.com/meedaycodes/cli-calculator.git
 cd cli-calculator
 
 ---
